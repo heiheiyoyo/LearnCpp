@@ -1,13 +1,13 @@
 #include <iostream>
 #include <fstream>
+#include <string>
 
 int main()
 {
     std::ifstream input("IO status.cpp");
-    char i;
-    while(input>>i)
+    std::string s;
+    while(std::getline(input,s))
     {
-        std::cout<<i;
+        std::cout<<s<<std::endl;
     }
-
 }

@@ -2,3 +2,4 @@ id_rsa*
 *.o
 *.exe
 .vscode
+Chapter10/nums.txt

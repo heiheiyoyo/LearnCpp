@@ -1,0 +1,31 @@
+Coders at Work / 编程人生
+C程序设计语言
+Effective C++
+Effective Java 中文版
+More Effective C++
+Patterns of Enterprise Application Architecture / 企业应用架构模式
+Peopleware / 人件集:人性化的软件开发
+Surely You're Joking, Mr. Feynman! / 别闹了，费曼先生！
+The Little Schemer
+The Seasoned Schemer
+Unix编程艺术
+编程珠玑
+编码：隐匿在计算机软硬件背后的语言
+编译原理
+测试驱动开发
+程序员修炼之道
+代码大全
+代码整洁之道
+点石成金:访客至上的网页设计秘笈
+高效程序员的45个习惯：敏捷开发修炼之道
+哥德尔、艾舍尔、巴赫书：集异璧之大成
+计算机程序的构造和解释
+计算机程序设计艺术
+交互设计之路
+人月神话
+设计模式
+深入浅出设计模式
+算法导论
+修改代码的艺术
+重构：改善既有代码的设计
+禅与摩托车维修艺术 / Zen and the Art of Motorcycle Maintenance

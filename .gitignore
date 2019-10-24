@@ -1,5 +1,8 @@
 id_rsa*
+*.ilk
 *.o
 *.exe
+*.pdb
+*.obj
 .vscode
 Chapter10/nums.txt

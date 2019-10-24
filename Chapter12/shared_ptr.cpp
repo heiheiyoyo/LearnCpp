@@ -14,5 +14,11 @@ int main()
     std::cout<<"sp3 use count: "<<sp2.use_count()<<std::endl;
     }
     std::cout<<"sp3 use count: "<<sp2.use_count()<<std::endl;
+
+    sp1.reset();
+    if(!sp1)
+    {
+        std::cout<<"sp1 is released. "<<std::endl;
+    }
     
 }
